@@ -11,4 +11,4 @@ App Mobile para Calcular média de notas de um aluno para verificar se foi aprov
 
 **Tela Reprovado:**
 
-Imagens/reprovado.png
+![](Imagens/reprovado.png)
