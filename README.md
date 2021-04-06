@@ -5,7 +5,7 @@ App Mobile para Calcular média de notas de um aluno para verificar se foi aprov
 
 **Tela aprovado:**
 
-Imagens/aprovado.png
+![](Imagens/aprovado.png)
 
 
 
